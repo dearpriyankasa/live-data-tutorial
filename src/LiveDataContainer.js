@@ -12,7 +12,7 @@ import {
 import { initialiseLiveDataSaga, cancelSubscription } from './actions/liveData.actions';
 
 const style = {
-  border: '1px solid green',
+  border: '1px solid yellow',
   margin: 6,
   padding: 8,
 };
